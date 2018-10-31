@@ -4,7 +4,7 @@ h# CSS Columns Code Along Exercise
 
 In this code along exercise we will add column structure to our page layouts.
 All the files you need to follow along are provided and opening this code along
-on the in-browser IDE will fork and clone down a copy for you, but if you would
+on the in-browser IDE will fork and clone down a copy for you, but if you woul
 like to continue working from your personal `exceptional-realty` repository:
 
 ```
